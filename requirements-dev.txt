@@ -1,0 +1,6 @@
+black            # Code formatter
+flake8           # Python linter
+isort            # Auto-sort imports
+nbstripout       # Remove output cells from notebooks (for clean Git commits)
+pre-commit       # Manage Git hooks like linting or nbstripout
+jupyterlab       # Optional: modern Jupyter interface
