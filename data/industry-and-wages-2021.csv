@@ -1,0 +1,71 @@
+Industry Sector,NAICS Sector,Ownership,Average Employment,Establishments,Payroll,Average Monthly Wage
+Mining,21,Total,125,6,8198682,5466
+Mining (except Oil and Gas),212,Total,113,3,7017118,5175
+Utilities,22,Total,44,6,3706218,7019
+Utilities,221,Total,44,6,3706218,7019
+Construction,23,Total,1272,202,63281523,4146
+Construction of Buildings,236,Total,203,56,9703091,3983
+Heavy and Civil Engineering Construction,237,Total,120,12,7924271,5503
+Specialty Trade Contractors,238,Total,949,134,45654161,4009
+Manufacturing (31-33),31-33,Total,2843,48,177304065,5197
+Food Manufacturing,311,Total,319,7,21156194,5527
+Leather and Allied Product Manufacturing,316,Total,,0,,
+Wood Product Manufacturing,321,Total,88,5,5229849,4953
+Petroleum and Coal Products Manufacturing,324,Total,,0,,
+Nonmetallic Mineral Product Manufacturing,327,Total,159,7,9607098,5035
+Fabricated Metal Product Manufacturing,332,Total,37,4,2144744,4831
+Transportation Equipment Manufacturing,336,Total,19,4,1565504,6866
+Wholesale Trade,42,Total,176,37,10168786,4815
+"Merchant Wholesalers, Durable Goods",423,Total,87,25,6057580,5802
+"Merchant Wholesalers, Nondurable Goods",424,Total,77,9,3507705,3796
+Retail Trade (44 & 45),44-45,Total,2236,132,65709096,2449
+Motor Vehicle and Parts Dealers,441,Total,353,23,18523985,4373
+Furniture and Home Furnishings Stores,442,Total,41,5,2054395,4176
+Electronics and Appliance Stores,443,Total,16,6,459770,2395
+Building Material and Garden Equipment and Supplies Dealers,444,Total,279,9,6980949,2085
+Food and Beverage Retailers,445,Total,474,11,10421475,1832
+Health and Personal Care Stores,446,Total,123,11,3498719,2370
+Gasoline Stations,447,Total,302,24,7303257,2015
+Sporting Goods/Hobby/Book/Music Stores,451,Total,33,6,417451,1054
+Miscellaneous Store Retailers,453,Total,47,9,1111702,1971
+Nonstore Retailers,454,Total,27,20,622622,1922
+Transportation and Warehousing (48 & 49),48-49,Total,2038,79,96389910,3941
+Truck Transportation,484,Total,146,49,7232297,4128
+Support Activities for Transportation,488,Total,68,9,4023036,4930
+Information,51,Total,206,28,7479618,3026
+Motion Picture and Sound Recording Industries,512,Total,83,6,602927,605
+Telecommunications,517,Total,65,11,4133995,5300
+Finance and Insurance,52,Total,201,54,13840751,5738
+Credit Intermediation and Related Activities,522,Total,133,30,8976190,5624
+Insurance Carriers and Related Activities,524,Total,60,20,4204833,5840
+Real Estate and Rental and Leasing,53,Total,110,73,4346829,3293
+Real Estate,531,Total,94,69,3734244,3311
+Rental and Leasing Services,532,Total,15,4,612585,3403
+Professiona.l Scientific & Technical Svc,54,Total,535,155,37597382,5856
+"Professional, Scientific, and Technical Services",541,Total,535,155,37597382,5856
+Management of Companies and Enterprises,55,Total,22,4,560062,2121
+Management of Companies and Enterprises,551,Total,22,4,560062,2121
+"Admin., Support, Waste Mgmt, Remediation",56,Total,1084,81,53787363,4135
+Administrative and Support Services,561,Total,618,65,21716600,2928
+Waste Management and Remediation Services,562,Total,466,16,32070763,5735
+Health Care and Social Assistance,62,Total,1890,185,76549264,3375
+Ambulatory Health Care Services,621,Total,867,96,40376127,3881
+Nursing and Residential Care Facilities,623,Total,249,5,5996533,2007
+Social Assistance,624,Total,426,81,9655949,1889
+"Arts, Entertainment, and Recreation",71,Total,349,32,6301267,1505
+"Amusement, Gambling, and Recreation Industries",713,Total,189,20,2789289,1230
+Accommodation and Food Services,72,Total,1598,101,26827854,1399
+Accommodation,721,Total,184,15,3381775,1532
+Food Services and Drinking Places,722,Total,1413,86,23446079,1383
+Other Services (except Public Admin.),81,Total,510,130,16556661,2705
+Repair and Maintenance,811,Total,307,52,12176967,3305
+Personal and Laundry Services,812,Total,116,44,2796797,2009
+"Religious, Grantmaking, Civic, Professional, and Similar Organizations",813,Total,76,21,1420582,1558
+Private Households,814,Total,11,13,162315,1230
+Public Administration,92,Total,1934,53,130033891,5603
+"Executive, Legislative, and Other General Government Support",921,Total,433,16,21532869,4144
+"Justice, Public Order, and Safety Activities",922,Total,279,14,14664567,4380
+Administration of Environmental Quality Programs,924,Total,30,4,1829423,5082
+Administration of Economic Programs,926,Total,48,9,1916086,3327
+Unclassified establishments,99,Total,0,1,1560,
+Unclassified,999,Total,0,1,1560,
