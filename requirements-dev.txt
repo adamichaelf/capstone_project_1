@@ -1,6 +1,17 @@
-black            # Code formatter
-flake8           # Python linter
-isort            # Auto-sort imports
-nbstripout       # Remove output cells from notebooks (for clean Git commits)
-pre-commit       # Manage Git hooks like linting or nbstripout
-jupyterlab       # Optional: modern Jupyter interface
+# Linting & Code Quality
+black>=24.3
+flake8>=6.1
+isort>=5.12
+
+# Jupyter Notebook Tools
+nbstripout>=0.6
+jupyterlab>=4.0
+
+# Git Hooks
+pre-commit>=3.4
+
+# Typing (optional)
+mypy>=1.0
+
+# Development Utilities
+ipykernel>=6.0
