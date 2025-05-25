@@ -12,3 +12,4 @@ __pycache__/
 
 # Other environment files (if any)
 *.env
+housing_report.pdf
