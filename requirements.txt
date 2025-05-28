@@ -9,3 +9,4 @@ plotly>=5.11
 folium>=0.14
 scipy>=1.10
 kagglehub>=0.3
+python-dotenv>=1.0.0
